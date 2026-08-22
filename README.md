@@ -1,8 +1,10 @@
 # 🛰️ Research & Competitor Intelligence Agent
 
 ## Team Members
-- [Your name]
-- [Teammate name, if any]
+- [Dhokane Grishma]
+- [Pawar Bhagyashri]
+- [Pol Urmila]
+- [Thete Payal]
 
 ## Problem Statement
 Organizations, startups, and research institutions operate in highly competitive
@@ -173,4 +175,13 @@ plan, research, evaluate, and return a briefing.
 
 ## Screenshots / Demo Link
 - **Live demo:** [add your deployed Streamlit link here]
-- **Screenshots:** [add screenshots here, if included]
+- **Screenshots:** <img width="1600" height="809" alt="1" src="https://github.com/user-attachments/assets/96d07e05-999e-495d-9c17-d04296f44472" />
+
+<img width="1600" height="866" alt="2" src="https://github.com/user-attachments/assets/51c3c079-f68e-4c68-a152-19e25d44a2ad" />
+
+<img width="1600" height="802" alt="3" src="https://github.com/user-attachments/assets/5f1f98a4-de24-4cc0-aff0-4e2a8b9500d2" />
+
+<img width="1600" height="809" alt="4" src="https://github.com/user-attachments/assets/11d81ac9-dc50-4768-a55e-b727177aa46a" />
+
+
+
